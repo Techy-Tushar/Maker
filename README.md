@@ -4,6 +4,8 @@
 
 Turn **Excel & CSV data** into interactive dashboards and presentation-ready PowerPoints — all from one workspace.
 
+### 🌐 [**▶️ Launch Maker**](https://techy-tushar.github.io/Maker/)
+
 **🧪 Try → 🧠 Discover → 📊 Build → 👀 Preview → 🎨 Design → 🚀 Deliver**
 
 ---
@@ -103,10 +105,10 @@ Slicers • Filters • Live Updates • Responsive Layouts
 No constant exporting.
 No waiting to see the result.
 
-**✏️ Edit**
+✏️ **Edit**
 Change charts, layouts, labels, themes and content.
 
-**⚡ Preview**
+⚡ **Preview**
 See your changes **instantly in the final view.**
 
 ### **What you see is what you build.**
@@ -233,6 +235,20 @@ New capabilities focused on making data work faster, simpler and smarter.
 
 ---
 
-## 🚀 ONE DATASET - ONE WORKSPACE - ENDLESS WAYS TO TELL THE STORY.
+## 🚀 Ready to Try Maker?
+
+### **Don't just read about it. Build something.**
+
+### [**▶️ Launch Maker →**](https://techy-tushar.github.io/Maker/)
+
+Upload your data, explore the sample dataset, and see your changes **in real time**.
+
+---
+
+# 🚀 ONE DATASET.
+
+# ONE WORKSPACE.
+
+# ENDLESS WAYS TO TELL THE STORY.
 
 ### **Welcome to Maker.**
